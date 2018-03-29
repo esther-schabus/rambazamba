@@ -1,0 +1,5 @@
+﻿  activetracking.cpp
+d:\data\documents\uni\7. semester\bachelorarbeit\activetracking\activetracking\activetracking.cpp(73): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+d:\data\documents\uni\7. semester\bachelorarbeit\activetracking\activetracking\activetracking.cpp(74): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+d:\data\documents\uni\7. semester\bachelorarbeit\activetracking\activetracking\activetracking.cpp(270): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  activetracking.vcxproj -> D:\Data\Documents\Uni\7. Semester\Bachelorarbeit\activetracking\x64\Debug\activetracking.exe
